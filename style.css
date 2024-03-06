@@ -166,3 +166,12 @@ footer ul a {
         transform: translateY(0);
     }
 }
+
+.about .container {
+    height: 500px;
+}
+
+.commintment .container {
+    display: flex;
+    justify-content: space-between;
+}
